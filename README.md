@@ -1,1 +1,1 @@
-# Bachelor-Project
+In this project, we reproduced the low-pressure water–gas shift reactor model from a reference paper in MATLAB by implementing a 1D pseudo-homogeneous fixed-bed reactor model, solving the mass and energy balance ODEs with a 4th-order Runge–Kutta scheme, and numerically analyzing CO conversion, temperature and pressure profiles, and the effect of inlet temperature and H₂O/CO ratio on reactor performance.
